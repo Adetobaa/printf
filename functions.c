@@ -3,7 +3,7 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - Prints a char
+ * print_char - This function prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
@@ -21,7 +21,7 @@ int print_char(va_list types, char buffer[],
 }
 /************************* PRINT A STRING *************************/
 /**
- * print_string - Prints a string
+ * print_string - This function prints a string
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
